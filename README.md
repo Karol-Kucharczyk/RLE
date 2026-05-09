@@ -60,6 +60,8 @@ RLE works best on data with many repeated characters.
 
 https://karol-kucharczyk.github.io/RLE/
 
+---
+
 ## Use Cases
 
 - Learning data compression algorithms
